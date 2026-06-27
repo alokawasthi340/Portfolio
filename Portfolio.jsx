@@ -179,11 +179,11 @@ export default function Portfolio() {
       {/* Top bar */}
       <header className="topbar" data-testid="portfolio-topbar">
         <div className="brand mono">
-          alok-awasthi <span>· data engineer</span>
+          Alok-Awasthi <span>· Data Engineer</span>
         </div>
         <div className="status mono" data-testid="status-pill">
           <span className="dot" />
-          <span>open to data roles</span>
+          <span>Open to Data roles</span>
         </div>
       </header>
 

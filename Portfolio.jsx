@@ -235,7 +235,7 @@ export default function Portfolio() {
             </a>
             <a
               className="contact-link"
-              href="https://github.com/"
+              href="https://github.com/alokawasthi340"
               target="_blank"
               rel="noopener noreferrer"
               data-testid="contact-github"
@@ -440,7 +440,7 @@ export default function Portfolio() {
       </section>
 
       <footer className="footer mono" data-testid="footer">
-        <span>// designed & shipped by alok awasthi · 2025</span>
+        <span>// designed & shipped by alok awasthi · 2026</span>
         <a href="mailto:alokawasthi340@gmail.com">say hi →</a>
       </footer>
     </div>

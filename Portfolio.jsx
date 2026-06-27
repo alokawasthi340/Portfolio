@@ -208,13 +208,19 @@ export default function Portfolio() {
             <span className="kw">PySpark</span>.
           </p>
 
-          <div className="cert-badge" data-testid="snowpro-badge">
+          <a
+            href="https://achieve.snowflake.com/02633da1-fc88-49af-96bc-613ad8a281c9##acc.udebECiA"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="cert-badge"
+            data-testid="snowpro-badge"
+          >
             <span className="ring" aria-hidden />
             <span className="cb-text mono">
               SnowPro Core - Snowflake
               <small>certified · jun 2025</small>
             </span>
-          </div>
+          </a>
 
           <div className="contacts" data-testid="hero-contacts">
             <a
